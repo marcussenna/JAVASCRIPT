@@ -1,2 +1,2 @@
 # JAVASCRIPT
- usaod para catalogar emu desenvolvimento 
+ usado para catalogar meu desenvolvimento em javascript
